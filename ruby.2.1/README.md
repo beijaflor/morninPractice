@@ -3,7 +3,7 @@
 
 Next.
 ----
-- [若手エンジニア／初心者のためのRuby 2.1入門（4）：RubyのRangeクラスと範囲オブジェクト、範囲演算子、イテレーターの使い方 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1405/27/news032.html)
+- [若手エンジニア／初心者のためのRuby 2.1入門（5）：RubyのString／Regexpクラスによる強力な文字列操作／正規表現 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1406/25/news166.html)
 
 
 連載
@@ -13,6 +13,7 @@ Next.
 1. [若手エンジニア／初心者のためのRuby 2.1入門（2）：Ruby 2.1の基本構文／基本文法まとめ＆Pryの使い方 (1/7) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1403/26/news030.html)
 1. [若手エンジニア／初心者のためのRuby 2.1入門（3）：Rubyの配列、ハッシュテーブルを表現するArray、Hashクラスの使い方 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1405/08/news038.html)
 1. [若手エンジニア／初心者のためのRuby 2.1入門（4）：RubyのRangeクラスと範囲オブジェクト、範囲演算子、イテレーターの使い方 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1405/27/news032.html)
+1. [若手エンジニア／初心者のためのRuby 2.1入門（5）：RubyのString／Regexpクラスによる強力な文字列操作／正規表現 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1406/25/news166.html)
 
 注記
 ----
