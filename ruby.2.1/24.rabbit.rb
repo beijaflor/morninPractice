@@ -1,0 +1,1 @@
+class Rabbit; end

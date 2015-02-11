@@ -4,7 +4,7 @@
 Next.
 ----
 - [若手エンジニア／初心者のためのRuby 2.1入門（7）：Rubyのオブジェクト指向におけるクラスとモジュール、継承、Mixin、アクセス制御の使い方 (1/5) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/28/news035.html)
-
+- 1~3ページまで終了
 
 連載
 ----
