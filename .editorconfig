@@ -1,0 +1,29 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+root = true
+# root = false
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+[*.py]
+indent_style = space
+indent_size = 4
+
+
+# =================
+# --- TARGET
+# [*.{extention}]
+
+# --- INDENT
+# indent_style = space,tab
+# indent_size = 4
+
+# --- CHARCODE
+# charset = utf-8
+
+# --- RET CODE
+# end_of_line = lf, cr, crlf
+# trim_trailing_whitespace = true,false
+# insert_final_newline = true,false
