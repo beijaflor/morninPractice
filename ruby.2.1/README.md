@@ -3,7 +3,7 @@
 
 Next.
 ----
-[若手エンジニア／初心者のためのRuby 2.1入門（8）：Rubyの面白さを理解するためのメソッド、ブロック、Proc、lambda、クロージャの基本 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1409/29/news035.html)
+[若手エンジニア／初心者のためのRuby 2.1入門（9）：Rubyの例外とその捕捉――基本のbegin～rescue～endからensure、else、retry、後置rescueまで (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1410/30/news048.html)
 
 連載
 ----
@@ -15,6 +15,7 @@ Next.
 1. [若手エンジニア／初心者のためのRuby 2.1入門（5）：RubyのString／Regexpクラスによる強力な文字列操作／正規表現 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1406/25/news166.html)
 1. [若手エンジニア／初心者のためのRuby 2.1入門（6）：RubyのNumericとTimeで数値と時間をさまざまな操作・演算・判定 (1/4) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1407/29/news030.html)
 1. [若手エンジニア／初心者のためのRuby 2.1入門（7）：Rubyのオブジェクト指向におけるクラスとモジュール、継承、Mixin、アクセス制御の使い方 (1/5) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1408/28/news035.html)
+1. [若手エンジニア／初心者のためのRuby 2.1入門（8）：Rubyの面白さを理解するためのメソッド、ブロック、Proc、lambda、クロージャの基本 (1/3) - ＠IT](http://www.atmarkit.co.jp/ait/articles/1409/29/news035.html)
 
 注記
 ----
