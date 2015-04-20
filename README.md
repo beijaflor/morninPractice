@@ -7,6 +7,8 @@ materials
 1. [若手エンジニア／初心者のためのRuby 2.1入門 - ＠IT](./ruby.2.1)
 1. [Python入門 : 4日間コース社内トレーニング](http://www.slideshare.net/yuichi110/python-introduction-42659983)
 1. [いま最も注目のライブラリ「React.js」でシングルページアプリケーションを作ってみよう！ 【前編】 （1/3）：CodeZine](http://codezine.jp/article/detail/8491)
+1. [mixi-inc/iOSTraining](https://github.com/mixi-inc/iOSTraining)
+1. [mixi-inc/AndroidTraining](https://github.com/mixi-inc/AndroidTraining)
 
 done
 -----
