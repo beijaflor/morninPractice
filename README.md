@@ -9,6 +9,7 @@ materials
 1. [いま最も注目のライブラリ「React.js」でシングルページアプリケーションを作ってみよう！ 【前編】 （1/3）：CodeZine](http://codezine.jp/article/detail/8491)
 1. [mixi-inc/iOSTraining](https://github.com/mixi-inc/iOSTraining)
 1. [mixi-inc/AndroidTraining](https://github.com/mixi-inc/AndroidTraining)
+1. [realpython/discover-flask: Full Stack Web Development with Flask.](https://github.com/realpython/discover-flask)
 
 done
 -----
