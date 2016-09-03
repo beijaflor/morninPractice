@@ -13,6 +13,7 @@ materials
 1. [React.js Fundamentals: The best place to become familiar with React.js and the React.js Ecosystem | ReactJS Program](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 1. [Leveling Up With React: React Router | CSS-Tricks](https://css-tricks.com/learning-react-router/)
 1. [Scipy Lecture Notes — Scipy lecture notes](http://www.scipy-lectures.org/)
+1. [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
 
 done
 -----
