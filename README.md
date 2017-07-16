@@ -14,6 +14,7 @@ materials
 1. [Leveling Up With React: React Router | CSS-Tricks](https://css-tricks.com/learning-react-router/)
 1. [Scipy Lecture Notes — Scipy lecture notes](http://www.scipy-lectures.org/)
 1. [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
+1. [EbTech/rust-algorithms: Common data structures and algorithms in Rust](https://github.com/EbTech/rust-algorithms)
 
 done
 -----
