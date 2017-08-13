@@ -1,0 +1,15 @@
+{
+  "name": "argorythum_designpattern",
+  "version": "0.0.1",
+  "description": "",
+  "main": "028_power.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watch 'jshint *.js' ./"
+  },
+  "author": "Sho Otani <sho.otani@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "watch": "^0.19.1"
+  }
+}
